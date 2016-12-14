@@ -1,2 +1,2 @@
 # LED Tea Light
-ino & fzz & jpg files from blog post about making an LED tea light!
+ino, hex, jpg & fzz files from blog post about making an LED tea light!
